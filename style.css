@@ -84,14 +84,17 @@ h1 {
 }
 
 .btn-one {
-	background-color: darkorange;
+	background-color: rgb(7, 33, 39);
 }
 
 .btn-two:hover {
-	background-color: darkorange;
+	background-color: rgb(7, 33, 39);
 	transition: all 0.2s ease-in;
 }
-
+.btn-three:hover{
+	background-color: rgb(7, 33, 39);
+	transition: all 0.2s ease-in;
+}
 .grid-container {
 	display: grid;
   	grid-template-columns: auto auto;
