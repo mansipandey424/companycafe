@@ -162,15 +162,15 @@ h1 {
 	height: 60px;
 	padding-left: 10px;
 	border-radius: 6px;
-	border: none;
+	border: black solid 2px;
 	margin: 5px 0;
 }
 
 .form input.button {
-    background-color: #4CAF50; /* Green */
+    background-color: #4ca8af; /* Green */
     border: none;
     color: white;
-    width: 71%;
+    width: 91%;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
